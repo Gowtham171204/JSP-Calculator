@@ -151,7 +151,8 @@ Usage
 
 Screenshots
 
- 
+ ![Screenshot 2025-02-05 092452](https://github.com/user-attachments/assets/0e301a03-08a2-41bc-aca7-061f4313dd04)
+
 
 
 Contributing
