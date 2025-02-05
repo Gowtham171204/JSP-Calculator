@@ -152,23 +152,6 @@ Usage
 Screenshots
 
  
-                                                              Fig 1: Using Addition (+) Operator
-
-
- 
-                                                        Fig 2: Using Difference (-) Operator
-
-
- 
-                                                    Fig 3: Using Multiplication (*) Operator
-
-
-
- 
-                                                          Fig 4: Using Division (/) Operator
-
- 
-                                     Fig 5: When we are trying to divide some number with 0/Zero
 
 
 Contributing
