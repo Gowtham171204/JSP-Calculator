@@ -151,7 +151,16 @@ Usage
 
 Screenshots
 
+ ![Screenshot 2025-02-04 223313](https://github.com/user-attachments/assets/30bb978f-4bfc-43f3-b4c9-8819be9ea985)
+
+ ![Screenshot 2025-02-05 092406](https://github.com/user-attachments/assets/90c3a7b3-a557-484a-8d05-6b947071bbe7)
+
+![Screenshot 2025-02-05 092434](https://github.com/user-attachments/assets/9804df2c-fe67-4822-b369-167ca66517fd)
+
  ![Screenshot 2025-02-05 092452](https://github.com/user-attachments/assets/0e301a03-08a2-41bc-aca7-061f4313dd04)
+
+ ![Screenshot 2025-02-05 092339](https://github.com/user-attachments/assets/6d0bfe19-edb7-4cd6-be4d-596b56ed7560)
+
 
 
 
