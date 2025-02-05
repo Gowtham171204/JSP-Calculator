@@ -151,7 +151,7 @@ Usage
 
 Screenshots
 
- ![Screenshot 2025-02-04 223313](https://github.com/user-attachments/assets/30bb978f-4bfc-43f3-b4c9-8819be9ea985)
+ ![Screenshot 2025-02-05 091917](https://github.com/user-attachments/assets/7539fb4c-4c4a-4d0e-9533-ab82235824c5)
 
  ![Screenshot 2025-02-05 092406](https://github.com/user-attachments/assets/90c3a7b3-a557-484a-8d05-6b947071bbe7)
 
